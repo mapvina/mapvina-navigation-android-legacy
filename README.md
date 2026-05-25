@@ -1,7 +1,7 @@
 # Deprecation
 
-This project is deprecated. Please migrate to [this new version](https://github.com/mapvina/mapvina-navigation-android).
-See [this discussion](https://github.com/mapvina/mapvina-navigation-android-legacy/issues/8#issuecomment-907437506) for the details.
+This project is deprecated. Please migrate to [this new version](https://github.io/github/mapvina/mapvina-navigation-android).
+See [this discussion](https://github.io/github/mapvina/mapvina-navigation-android-legacy/issues/8#issuecomment-907437506) for the details.
 
 # Navigation SDK
 
